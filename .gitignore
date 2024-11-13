@@ -1,0 +1,19 @@
+# Archivos de configuración
+/Admin/funciones/conecta.php
+/funciones/conecta.php
+
+# Carpetas de imágenes
+/Admin/fotos_empleados/
+/Admin/fotos_productos/
+/Admin/fotos_promociones/
+
+# Logs y caché
+/logs/
+*.log
+*.cache
+*.tmp
+
+# Dependencias de PHP y JavaScript
+/vendor/
+composer.lock
+/js/jquery-3.3.1.min.js
